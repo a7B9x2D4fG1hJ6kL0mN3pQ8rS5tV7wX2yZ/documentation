@@ -1,0 +1,3358 @@
+{
+  "1": {
+    "name_fr": "Zombie",
+    "name_en": "Zombie"
+  },
+  "2": {
+    "name_fr": "Statue",
+    "name_en": "Statue"
+  },
+  "3": {
+    "name_fr": "Premier",
+    "name_en": "First"
+  },
+  "4": {
+    "name_fr": "Dernier",
+    "name_en": "Last"
+  },
+  "5": {
+    "name_fr": "Économe",
+    "name_en": "Scanty"
+  },
+  "6": {
+    "name_fr": "Versatile",
+    "name_en": "Versatile"
+  },
+  "8": {
+    "name_fr": "Nomade",
+    "name_en": "Nomad"
+  },
+  "9": {
+    "name_fr": "Barbare",
+    "name_en": "Barbaric"
+  },
+  "10": {
+    "name_fr": "Cruel",
+    "name_en": "Cruel"
+  },
+  "17": {
+    "name_fr": "Intouchable",
+    "name_en": "Untouchable"
+  },
+  "19": {
+    "name_fr": "Mains propres",
+    "name_en": "Clean Hands"
+  },
+  "20": {
+    "name_fr": "Élémentaire",
+    "name_en": "Elementary, My Dear!"
+  },
+  "25": {
+    "name_fr": "Ordonné",
+    "name_en": "Maniac"
+  },
+  "30": {
+    "name_fr": "Les petits d'abord",
+    "name_en": "Low Levels First!"
+  },
+  "31": {
+    "name_fr": "Focus",
+    "name_en": "Focus"
+  },
+  "32": {
+    "name_fr": "Élitiste",
+    "name_en": "Elitist"
+  },
+  "33": {
+    "name_fr": "Survivant",
+    "name_en": "Survivor"
+  },
+  "34": {
+    "name_fr": "Imprévisible",
+    "name_en": "Unpredictable"
+  },
+  "35": {
+    "name_fr": "Tueur à gages",
+    "name_en": "Contract Killer"
+  },
+  "36": {
+    "name_fr": "Hardi",
+    "name_en": "Impertinence"
+  },
+  "37": {
+    "name_fr": "Collant",
+    "name_en": "Tight"
+  },
+  "38": {
+    "name_fr": "Blitzkrieg",
+    "name_en": "Blitzkrieg"
+  },
+  "39": {
+    "name_fr": "Misanthrope",
+    "name_en": "Misanthrope"
+  },
+  "40": {
+    "name_fr": "Prudent",
+    "name_en": "Cautious"
+  },
+  "42": {
+    "name_fr": "Deux pour le prix d'un",
+    "name_en": "Two for the Price of One"
+  },
+  "44": {
+    "name_fr": "Partage",
+    "name_en": "Sharing"
+  },
+  "45": {
+    "name_fr": "Duel",
+    "name_en": "Duel"
+  },
+  "46": {
+    "name_fr": "Chacun son monstre",
+    "name_en": "To Each His Pwn"
+  },
+  "47": {
+    "name_fr": "Contamination",
+    "name_en": "Contamination"
+  },
+  "52": {
+    "name_fr": "Duo",
+    "name_en": "Duo"
+  },
+  "53": {
+    "name_fr": "Duo",
+    "name_en": "Duo"
+  },
+  "54": {
+    "name_fr": "Duo",
+    "name_en": "Duo"
+  },
+  "55": {
+    "name_fr": "Duo",
+    "name_en": "Duo"
+  },
+  "56": {
+    "name_fr": "Duo",
+    "name_en": "Duo"
+  },
+  "57": {
+    "name_fr": "Duo",
+    "name_en": "Duo"
+  },
+  "58": {
+    "name_fr": "Duo",
+    "name_en": "Duo"
+  },
+  "59": {
+    "name_fr": "Duo",
+    "name_en": "Duo"
+  },
+  "60": {
+    "name_fr": "Duo",
+    "name_en": "Duo"
+  },
+  "61": {
+    "name_fr": "Duo",
+    "name_en": "Duo"
+  },
+  "62": {
+    "name_fr": "Duo",
+    "name_en": "Duo"
+  },
+  "63": {
+    "name_fr": "Duo",
+    "name_en": "Duo"
+  },
+  "64": {
+    "name_fr": "Duo",
+    "name_en": "Duo"
+  },
+  "65": {
+    "name_fr": "Duo",
+    "name_en": "Duo"
+  },
+  "66": {
+    "name_fr": "Duo",
+    "name_en": "Duo"
+  },
+  "67": {
+    "name_fr": "Duo",
+    "name_en": "Duo"
+  },
+  "68": {
+    "name_fr": "Duo",
+    "name_en": "Duo"
+  },
+  "69": {
+    "name_fr": "Duo",
+    "name_en": "Duo"
+  },
+  "73": {
+    "name_fr": "Duo",
+    "name_en": "Duo"
+  },
+  "74": {
+    "name_fr": "Duo",
+    "name_en": "Duo"
+  },
+  "75": {
+    "name_fr": "Duo",
+    "name_en": "Duo"
+  },
+  "76": {
+    "name_fr": "Duo",
+    "name_en": "Duo"
+  },
+  "77": {
+    "name_fr": "Duo",
+    "name_en": "Duo"
+  },
+  "78": {
+    "name_fr": "Duo",
+    "name_en": "Duo"
+  },
+  "79": {
+    "name_fr": "Duo",
+    "name_en": "Duo"
+  },
+  "80": {
+    "name_fr": "Duo",
+    "name_en": "Duo"
+  },
+  "81": {
+    "name_fr": "Duo",
+    "name_en": "Duo"
+  },
+  "82": {
+    "name_fr": "Duo",
+    "name_en": "Duo"
+  },
+  "83": {
+    "name_fr": "Duo",
+    "name_en": "Duo"
+  },
+  "84": {
+    "name_fr": "Duo",
+    "name_en": "Duo"
+  },
+  "85": {
+    "name_fr": "Duo",
+    "name_en": "Duo"
+  },
+  "86": {
+    "name_fr": "Duo",
+    "name_en": "Duo"
+  },
+  "87": {
+    "name_fr": "Duo",
+    "name_en": "Duo"
+  },
+  "88": {
+    "name_fr": "Duo",
+    "name_en": "Duo"
+  },
+  "89": {
+    "name_fr": "Duo",
+    "name_en": "Duo"
+  },
+  "90": {
+    "name_fr": "Duo",
+    "name_en": "Duo"
+  },
+  "91": {
+    "name_fr": "Duo",
+    "name_en": "Duo"
+  },
+  "92": {
+    "name_fr": "Duo",
+    "name_en": "Duo"
+  },
+  "93": {
+    "name_fr": "Duo",
+    "name_en": "Duo"
+  },
+  "94": {
+    "name_fr": "Duo",
+    "name_en": "Duo"
+  },
+  "95": {
+    "name_fr": "Duo",
+    "name_en": "Duo"
+  },
+  "96": {
+    "name_fr": "Duo",
+    "name_en": "Duo"
+  },
+  "97": {
+    "name_fr": "Duo",
+    "name_en": "Duo"
+  },
+  "98": {
+    "name_fr": "Duo",
+    "name_en": "Duo"
+  },
+  "99": {
+    "name_fr": "Duo",
+    "name_en": "Duo"
+  },
+  "101": {
+    "name_fr": "Duo",
+    "name_en": "Duo"
+  },
+  "102": {
+    "name_fr": "Duo",
+    "name_en": "Duo"
+  },
+  "103": {
+    "name_fr": "Duo",
+    "name_en": "Duo"
+  },
+  "104": {
+    "name_fr": "Duo",
+    "name_en": "Duo"
+  },
+  "105": {
+    "name_fr": "Duo",
+    "name_en": "Duo"
+  },
+  "106": {
+    "name_fr": "Duo",
+    "name_en": "Duo"
+  },
+  "107": {
+    "name_fr": "Duo",
+    "name_en": "Duo"
+  },
+  "108": {
+    "name_fr": "Duo",
+    "name_en": "Duo"
+  },
+  "109": {
+    "name_fr": "Duo",
+    "name_en": "Duo"
+  },
+  "110": {
+    "name_fr": "Duo",
+    "name_en": "Duo"
+  },
+  "111": {
+    "name_fr": "Duo",
+    "name_en": "Duo"
+  },
+  "112": {
+    "name_fr": "Duo",
+    "name_en": "Duo"
+  },
+  "113": {
+    "name_fr": "Duo",
+    "name_en": "Duo"
+  },
+  "114": {
+    "name_fr": "Duo",
+    "name_en": "Duo"
+  },
+  "115": {
+    "name_fr": "Zombie",
+    "name_en": "Zombie"
+  },
+  "116": {
+    "name_fr": "Collant",
+    "name_en": "Tight"
+  },
+  "117": {
+    "name_fr": "Premier",
+    "name_en": "First"
+  },
+  "118": {
+    "name_fr": "Premier",
+    "name_en": "First"
+  },
+  "119": {
+    "name_fr": "Misanthrope",
+    "name_en": "Misanthrope"
+  },
+  "120": {
+    "name_fr": "Versatile",
+    "name_en": "Versatile"
+  },
+  "121": {
+    "name_fr": "Prudent",
+    "name_en": "Cautious"
+  },
+  "122": {
+    "name_fr": "Blitzkrieg",
+    "name_en": "Blitzkrieg"
+  },
+  "123": {
+    "name_fr": "Zombie",
+    "name_en": "Zombie"
+  },
+  "124": {
+    "name_fr": "Mains propres",
+    "name_en": "Clean Hands"
+  },
+  "125": {
+    "name_fr": "Statue",
+    "name_en": "Statue"
+  },
+  "126": {
+    "name_fr": "Versatile",
+    "name_en": "Versatile"
+  },
+  "127": {
+    "name_fr": "Misanthrope",
+    "name_en": "Misanthrope"
+  },
+  "128": {
+    "name_fr": "Dernier",
+    "name_en": "Last"
+  },
+  "129": {
+    "name_fr": "Nomade",
+    "name_en": "Nomad"
+  },
+  "130": {
+    "name_fr": "Premier",
+    "name_en": "First"
+  },
+  "131": {
+    "name_fr": "Misanthrope",
+    "name_en": "Misanthrope"
+  },
+  "132": {
+    "name_fr": "Premier",
+    "name_en": "First"
+  },
+  "133": {
+    "name_fr": "Nomade",
+    "name_en": "Nomad"
+  },
+  "134": {
+    "name_fr": "Premier",
+    "name_en": "First"
+  },
+  "135": {
+    "name_fr": "Prudent",
+    "name_en": "Cautious"
+  },
+  "136": {
+    "name_fr": "Versatile",
+    "name_en": "Versatile"
+  },
+  "137": {
+    "name_fr": "Hardi",
+    "name_en": "Impertinence"
+  },
+  "138": {
+    "name_fr": "Blitzkrieg",
+    "name_en": "Blitzkrieg"
+  },
+  "139": {
+    "name_fr": "Zombie",
+    "name_en": "Zombie"
+  },
+  "140": {
+    "name_fr": "Mains propres",
+    "name_en": "Clean Hands"
+  },
+  "141": {
+    "name_fr": "Misanthrope",
+    "name_en": "Misanthrope"
+  },
+  "142": {
+    "name_fr": "Mains propres",
+    "name_en": "Clean Hands"
+  },
+  "143": {
+    "name_fr": "Hardi",
+    "name_en": "Impertinence"
+  },
+  "144": {
+    "name_fr": "Blitzkrieg",
+    "name_en": "Blitzkrieg"
+  },
+  "145": {
+    "name_fr": "Zombie",
+    "name_en": "Zombie"
+  },
+  "146": {
+    "name_fr": "Premier",
+    "name_en": "First"
+  },
+  "147": {
+    "name_fr": "Duel",
+    "name_en": "Duel"
+  },
+  "148": {
+    "name_fr": "Prudent",
+    "name_en": "Cautious"
+  },
+  "149": {
+    "name_fr": "Duel",
+    "name_en": "Duel"
+  },
+  "150": {
+    "name_fr": "Prudent",
+    "name_en": "Cautious"
+  },
+  "151": {
+    "name_fr": "Duel",
+    "name_en": "Duel"
+  },
+  "152": {
+    "name_fr": "Prudent",
+    "name_en": "Cautious"
+  },
+  "153": {
+    "name_fr": "Duel",
+    "name_en": "Duel"
+  },
+  "154": {
+    "name_fr": "Prudent",
+    "name_en": "Cautious"
+  },
+  "155": {
+    "name_fr": "Dernier",
+    "name_en": "Last"
+  },
+  "156": {
+    "name_fr": "Misanthrope",
+    "name_en": "Misanthrope"
+  },
+  "157": {
+    "name_fr": "Premier",
+    "name_en": "First"
+  },
+  "158": {
+    "name_fr": "Econome",
+    "name_en": "Scanty"
+  },
+  "159": {
+    "name_fr": "Prudent",
+    "name_en": "Cautious"
+  },
+  "160": {
+    "name_fr": "Premier",
+    "name_en": "First"
+  },
+  "161": {
+    "name_fr": "Duel",
+    "name_en": "Duel"
+  },
+  "162": {
+    "name_fr": "Collant",
+    "name_en": "Tight"
+  },
+  "163": {
+    "name_fr": "Duel",
+    "name_en": "Duel"
+  },
+  "164": {
+    "name_fr": "Collant",
+    "name_en": "Tight"
+  },
+  "165": {
+    "name_fr": "Duel",
+    "name_en": "Duel"
+  },
+  "166": {
+    "name_fr": "Collant",
+    "name_en": "Tight"
+  },
+  "167": {
+    "name_fr": "Duel",
+    "name_en": "Duel"
+  },
+  "168": {
+    "name_fr": "Collant",
+    "name_en": "Tight"
+  },
+  "171": {
+    "name_fr": "Nomade",
+    "name_en": "Nomad"
+  },
+  "172": {
+    "name_fr": "Premier",
+    "name_en": "First"
+  },
+  "173": {
+    "name_fr": "Hardi",
+    "name_en": "Impertinence"
+  },
+  "174": {
+    "name_fr": "Versatile",
+    "name_en": "Versatile"
+  },
+  "175": {
+    "name_fr": "Zombie",
+    "name_en": "Zombie"
+  },
+  "176": {
+    "name_fr": "Mains propres",
+    "name_en": "Clean Hands"
+  },
+  "177": {
+    "name_fr": "Premier",
+    "name_en": "First"
+  },
+  "178": {
+    "name_fr": "Hardi",
+    "name_en": "Impertinence"
+  },
+  "179": {
+    "name_fr": "Versatile",
+    "name_en": "Versatile"
+  },
+  "180": {
+    "name_fr": "Statue",
+    "name_en": "Statue"
+  },
+  "181": {
+    "name_fr": "Premier",
+    "name_en": "First"
+  },
+  "182": {
+    "name_fr": "Temps qui court",
+    "name_en": "Time Flies"
+  },
+  "183": {
+    "name_fr": "Collant",
+    "name_en": "Tight"
+  },
+  "184": {
+    "name_fr": "Premier",
+    "name_en": "First"
+  },
+  "185": {
+    "name_fr": "Premier",
+    "name_en": "First"
+  },
+  "186": {
+    "name_fr": "Hardi",
+    "name_en": "Impertinence"
+  },
+  "187": {
+    "name_fr": "Hardi",
+    "name_en": "Impertinence"
+  },
+  "188": {
+    "name_fr": "Blitzkrieg",
+    "name_en": "Blitzkrieg"
+  },
+  "189": {
+    "name_fr": "Hardi",
+    "name_en": "Impertinence"
+  },
+  "190": {
+    "name_fr": "Duel",
+    "name_en": "Duel"
+  },
+  "191": {
+    "name_fr": "Misanthrope",
+    "name_en": "Misanthrope"
+  },
+  "192": {
+    "name_fr": "Mains propres",
+    "name_en": "Clean Hands"
+  },
+  "193": {
+    "name_fr": "Mains propres",
+    "name_en": "Clean Hands"
+  },
+  "194": {
+    "name_fr": "Premier",
+    "name_en": "First"
+  },
+  "197": {
+    "name_fr": "Dernier",
+    "name_en": "Last"
+  },
+  "198": {
+    "name_fr": "Statue",
+    "name_en": "Statue"
+  },
+  "199": {
+    "name_fr": "Statue",
+    "name_en": "Statue"
+  },
+  "200": {
+    "name_fr": "Versatile",
+    "name_en": "Versatile"
+  },
+  "201": {
+    "name_fr": "Statue",
+    "name_en": "Statue"
+  },
+  "202": {
+    "name_fr": "Blitzkrieg",
+    "name_en": "Blitzkrieg"
+  },
+  "207": {
+    "name_fr": "Liberté",
+    "name_en": "Freedom"
+  },
+  "208": {
+    "name_fr": "Premier",
+    "name_en": "First"
+  },
+  "209": {
+    "name_fr": "Intouchable",
+    "name_en": "Untouchable"
+  },
+  "210": {
+    "name_fr": "Zombie",
+    "name_en": "Zombie"
+  },
+  "211": {
+    "name_fr": "Dernier",
+    "name_en": "Last"
+  },
+  "212": {
+    "name_fr": "Collant",
+    "name_en": "Tight"
+  },
+  "213": {
+    "name_fr": "Circulez !",
+    "name_en": "Keep Moving!"
+  },
+  "214": {
+    "name_fr": "Statue",
+    "name_en": "Statue"
+  },
+  "215": {
+    "name_fr": "Hardi",
+    "name_en": "Impertinence"
+  },
+  "216": {
+    "name_fr": "Dernier",
+    "name_en": "Last"
+  },
+  "217": {
+    "name_fr": "Statue",
+    "name_en": "Statue"
+  },
+  "218": {
+    "name_fr": "Premier",
+    "name_en": "First"
+  },
+  "219": {
+    "name_fr": "Circulez !",
+    "name_en": "Keep Moving!"
+  },
+  "220": {
+    "name_fr": "Premier",
+    "name_en": "First"
+  },
+  "221": {
+    "name_fr": "Premier",
+    "name_en": "First"
+  },
+  "222": {
+    "name_fr": "Statue",
+    "name_en": "Statue"
+  },
+  "223": {
+    "name_fr": "Premier",
+    "name_en": "First"
+  },
+  "224": {
+    "name_fr": "Statue",
+    "name_en": "Statue"
+  },
+  "225": {
+    "name_fr": "Mystique",
+    "name_en": "Mystique"
+  },
+  "226": {
+    "name_fr": "Zombie",
+    "name_en": "Zombie"
+  },
+  "227": {
+    "name_fr": "Nomade",
+    "name_en": "Nomad"
+  },
+  "228": {
+    "name_fr": "Blitzkrieg",
+    "name_en": "Blitzkrieg"
+  },
+  "229": {
+    "name_fr": "Hardi",
+    "name_en": "Impertinence"
+  },
+  "230": {
+    "name_fr": "Blitzkrieg",
+    "name_en": "Blitzkrieg"
+  },
+  "231": {
+    "name_fr": "Collant",
+    "name_en": "Tight"
+  },
+  "232": {
+    "name_fr": "Dernier",
+    "name_en": "Last"
+  },
+  "233": {
+    "name_fr": "Dernier",
+    "name_en": "Last"
+  },
+  "234": {
+    "name_fr": "Premier",
+    "name_en": "First"
+  },
+  "235": {
+    "name_fr": "Dernier",
+    "name_en": "Last"
+  },
+  "236": {
+    "name_fr": "Statue",
+    "name_en": "Statue"
+  },
+  "237": {
+    "name_fr": "Versatile",
+    "name_en": "Versatile"
+  },
+  "238": {
+    "name_fr": "Blitzkrieg",
+    "name_en": "Blitzkrieg"
+  },
+  "239": {
+    "name_fr": "Premier",
+    "name_en": "First"
+  },
+  "240": {
+    "name_fr": "Collant",
+    "name_en": "Tight"
+  },
+  "241": {
+    "name_fr": "Hardi",
+    "name_en": "Impertinence"
+  },
+  "242": {
+    "name_fr": "Blitzkrieg",
+    "name_en": "Blitzkrieg"
+  },
+  "243": {
+    "name_fr": "Duo",
+    "name_en": "Duo"
+  },
+  "244": {
+    "name_fr": "Premier",
+    "name_en": "First"
+  },
+  "245": {
+    "name_fr": "Statue",
+    "name_en": "Statue"
+  },
+  "246": {
+    "name_fr": "Duo",
+    "name_en": "Duo"
+  },
+  "247": {
+    "name_fr": "Nomade",
+    "name_en": "Nomad"
+  },
+  "248": {
+    "name_fr": "Hardi",
+    "name_en": "Impertinence"
+  },
+  "249": {
+    "name_fr": "Duo",
+    "name_en": "Duo"
+  },
+  "250": {
+    "name_fr": "Chrono",
+    "name_en": "Chrono"
+  },
+  "251": {
+    "name_fr": "Chrono",
+    "name_en": "Chrono"
+  },
+  "252": {
+    "name_fr": "Chrono",
+    "name_en": "Chrono"
+  },
+  "253": {
+    "name_fr": "Duo",
+    "name_en": "Duo"
+  },
+  "254": {
+    "name_fr": "Duo",
+    "name_en": "Duo"
+  },
+  "255": {
+    "name_fr": "Duo",
+    "name_en": "Duo"
+  },
+  "256": {
+    "name_fr": "Duo",
+    "name_en": "Duo"
+  },
+  "257": {
+    "name_fr": "Duo",
+    "name_en": "Duo"
+  },
+  "258": {
+    "name_fr": "Prudent",
+    "name_en": "Cautious"
+  },
+  "259": {
+    "name_fr": "Prudent",
+    "name_en": "Cautious"
+  },
+  "260": {
+    "name_fr": "Nomade",
+    "name_en": "Nomad"
+  },
+  "261": {
+    "name_fr": "Nomade",
+    "name_en": "Nomad"
+  },
+  "262": {
+    "name_fr": "Misanthrope",
+    "name_en": "Misanthrope"
+  },
+  "263": {
+    "name_fr": "Versatile",
+    "name_en": "Versatile"
+  },
+  "264": {
+    "name_fr": "Dernier",
+    "name_en": "Last"
+  },
+  "265": {
+    "name_fr": "Collant",
+    "name_en": "Tight"
+  },
+  "266": {
+    "name_fr": "Barbare",
+    "name_en": "Barbaric"
+  },
+  "267": {
+    "name_fr": "Statue",
+    "name_en": "Statue"
+  },
+  "272": {
+    "name_fr": "Chrono",
+    "name_en": "Chrono"
+  },
+  "273": {
+    "name_fr": "Statue",
+    "name_en": "Statue"
+  },
+  "274": {
+    "name_fr": "Mains propres",
+    "name_en": "Clean Hands"
+  },
+  "275": {
+    "name_fr": "Duo",
+    "name_en": "Duo"
+  },
+  "276": {
+    "name_fr": "Chrono",
+    "name_en": "Chrono"
+  },
+  "277": {
+    "name_fr": "Premier",
+    "name_en": "First"
+  },
+  "278": {
+    "name_fr": "Collant",
+    "name_en": "Tight"
+  },
+  "279": {
+    "name_fr": "Duo",
+    "name_en": "Duo"
+  },
+  "280": {
+    "name_fr": "Chrono",
+    "name_en": "Chrono"
+  },
+  "281": {
+    "name_fr": "Nomade",
+    "name_en": "Nomad"
+  },
+  "282": {
+    "name_fr": "Blitzkrieg",
+    "name_en": "Blitzkrieg"
+  },
+  "283": {
+    "name_fr": "Duo",
+    "name_en": "Duo"
+  },
+  "284": {
+    "name_fr": "Chrono",
+    "name_en": "Chrono"
+  },
+  "285": {
+    "name_fr": "Zombie",
+    "name_en": "Zombie"
+  },
+  "286": {
+    "name_fr": "Hardi",
+    "name_en": "Impertinence"
+  },
+  "287": {
+    "name_fr": "Duo",
+    "name_en": "Duo"
+  },
+  "288": {
+    "name_fr": "Mains propres",
+    "name_en": "Clean Hands"
+  },
+  "289": {
+    "name_fr": "Blitzkrieg",
+    "name_en": "Blitzkrieg"
+  },
+  "290": {
+    "name_fr": "Duo",
+    "name_en": "Duo"
+  },
+  "291": {
+    "name_fr": "Statue",
+    "name_en": "Statue"
+  },
+  "292": {
+    "name_fr": "Mains propres",
+    "name_en": "Clean Hands"
+  },
+  "293": {
+    "name_fr": "Duo",
+    "name_en": "Duo"
+  },
+  "294": {
+    "name_fr": "Duo",
+    "name_en": "Duo"
+  },
+  "295": {
+    "name_fr": "Dernier",
+    "name_en": "Last"
+  },
+  "296": {
+    "name_fr": "Mystique",
+    "name_en": "Mystique"
+  },
+  "297": {
+    "name_fr": "Premier",
+    "name_en": "First"
+  },
+  "298": {
+    "name_fr": "Collant",
+    "name_en": "Tight"
+  },
+  "299": {
+    "name_fr": "Duo",
+    "name_en": "Duo"
+  },
+  "300": {
+    "name_fr": "Premier",
+    "name_en": "First"
+  },
+  "301": {
+    "name_fr": "Hardi",
+    "name_en": "Impertinence"
+  },
+  "302": {
+    "name_fr": "Duo",
+    "name_en": "Duo"
+  },
+  "303": {
+    "name_fr": "Premier",
+    "name_en": "First"
+  },
+  "304": {
+    "name_fr": "Barbare",
+    "name_en": "Barbaric"
+  },
+  "305": {
+    "name_fr": "Duo",
+    "name_en": "Duo"
+  },
+  "306": {
+    "name_fr": "Premier",
+    "name_en": "First"
+  },
+  "307": {
+    "name_fr": "Statue",
+    "name_en": "Statue"
+  },
+  "308": {
+    "name_fr": "Trio",
+    "name_en": "Trio"
+  },
+  "309": {
+    "name_fr": "Hardi",
+    "name_en": "Impertinence"
+  },
+  "310": {
+    "name_fr": "Liberté",
+    "name_en": "Freedom"
+  },
+  "311": {
+    "name_fr": "Duo",
+    "name_en": "Duo"
+  },
+  "312": {
+    "name_fr": "Circulez !",
+    "name_en": "Keep Moving!"
+  },
+  "313": {
+    "name_fr": "Blitzkrieg",
+    "name_en": "Blitzkrieg"
+  },
+  "314": {
+    "name_fr": "Duo",
+    "name_en": "Duo"
+  },
+  "315": {
+    "name_fr": "Premier",
+    "name_en": "First"
+  },
+  "316": {
+    "name_fr": "Collant",
+    "name_en": "Tight"
+  },
+  "317": {
+    "name_fr": "Trio",
+    "name_en": "Trio"
+  },
+  "319": {
+    "name_fr": "Misanthrope",
+    "name_en": "Misanthrope"
+  },
+  "320": {
+    "name_fr": "Duo",
+    "name_en": "Duo"
+  },
+  "321": {
+    "name_fr": "Statue",
+    "name_en": "Statue"
+  },
+  "322": {
+    "name_fr": "Focus",
+    "name_en": "Focus"
+  },
+  "323": {
+    "name_fr": "Duo",
+    "name_en": "Duo"
+  },
+  "324": {
+    "name_fr": "Circulez !",
+    "name_en": "Keep Moving!"
+  },
+  "325": {
+    "name_fr": "Barbare",
+    "name_en": "Barbaric"
+  },
+  "326": {
+    "name_fr": "Statue",
+    "name_en": "Statue"
+  },
+  "327": {
+    "name_fr": "Duo",
+    "name_en": "Duo"
+  },
+  "328": {
+    "name_fr": "Chrono",
+    "name_en": "Chrono"
+  },
+  "329": {
+    "name_fr": "Hardi",
+    "name_en": "Impertinence"
+  },
+  "330": {
+    "name_fr": "Dernier",
+    "name_en": "Last"
+  },
+  "331": {
+    "name_fr": "Duo",
+    "name_en": "Duo"
+  },
+  "332": {
+    "name_fr": "Focus",
+    "name_en": "Focus"
+  },
+  "333": {
+    "name_fr": "Hardi",
+    "name_en": "Impertinence"
+  },
+  "334": {
+    "name_fr": "Trio",
+    "name_en": "Trio"
+  },
+  "335": {
+    "name_fr": "Barbare",
+    "name_en": "Barbaric"
+  },
+  "336": {
+    "name_fr": "Collant",
+    "name_en": "Tight"
+  },
+  "337": {
+    "name_fr": "Duo",
+    "name_en": "Duo"
+  },
+  "338": {
+    "name_fr": "Misanthrope",
+    "name_en": "Misanthrope"
+  },
+  "339": {
+    "name_fr": "Blitzkrieg",
+    "name_en": "Blitzkrieg"
+  },
+  "340": {
+    "name_fr": "Duo",
+    "name_en": "Duo"
+  },
+  "341": {
+    "name_fr": "Duo",
+    "name_en": "Duo"
+  },
+  "342": {
+    "name_fr": "Collant",
+    "name_en": "Tight"
+  },
+  "343": {
+    "name_fr": "Dernier",
+    "name_en": "Last"
+  },
+  "344": {
+    "name_fr": "Duo",
+    "name_en": "Duo"
+  },
+  "345": {
+    "name_fr": "Premier",
+    "name_en": "First"
+  },
+  "346": {
+    "name_fr": "Hardi",
+    "name_en": "Impertinence"
+  },
+  "347": {
+    "name_fr": "Duo",
+    "name_en": "Duo"
+  },
+  "348": {
+    "name_fr": "Dernier",
+    "name_en": "Last"
+  },
+  "349": {
+    "name_fr": "Nomade",
+    "name_en": "Nomad"
+  },
+  "350": {
+    "name_fr": "Duo",
+    "name_en": "Duo"
+  },
+  "351": {
+    "name_fr": "Blitzkrieg",
+    "name_en": "Blitzkrieg"
+  },
+  "352": {
+    "name_fr": "Statue",
+    "name_en": "Statue"
+  },
+  "353": {
+    "name_fr": "Duo",
+    "name_en": "Duo"
+  },
+  "354": {
+    "name_fr": "Zombie",
+    "name_en": "Zombie"
+  },
+  "355": {
+    "name_fr": "Premier",
+    "name_en": "First"
+  },
+  "356": {
+    "name_fr": "Liberté",
+    "name_en": "Freedom"
+  },
+  "357": {
+    "name_fr": "Prudent",
+    "name_en": "Cautious"
+  },
+  "358": {
+    "name_fr": "Trio",
+    "name_en": "Trio"
+  },
+  "359": {
+    "name_fr": "Blitzkrieg",
+    "name_en": "Blitzkrieg"
+  },
+  "360": {
+    "name_fr": "Prudent",
+    "name_en": "Cautious"
+  },
+  "361": {
+    "name_fr": "Prudent",
+    "name_en": "Cautious"
+  },
+  "362": {
+    "name_fr": "Hardi",
+    "name_en": "Impertinence"
+  },
+  "363": {
+    "name_fr": "Duo",
+    "name_en": "Duo"
+  },
+  "364": {
+    "name_fr": "Dernier",
+    "name_en": "Last"
+  },
+  "365": {
+    "name_fr": "Statue",
+    "name_en": "Statue"
+  },
+  "366": {
+    "name_fr": "Duo",
+    "name_en": "Duo"
+  },
+  "367": {
+    "name_fr": "Duo",
+    "name_en": "Duo"
+  },
+  "368": {
+    "name_fr": "Mains propres",
+    "name_en": "Clean Hands"
+  },
+  "369": {
+    "name_fr": "Zombie",
+    "name_en": "Zombie"
+  },
+  "370": {
+    "name_fr": "Duo",
+    "name_en": "Duo"
+  },
+  "371": {
+    "name_fr": "Blitzkrieg",
+    "name_en": "Blitzkrieg"
+  },
+  "372": {
+    "name_fr": "Duel",
+    "name_en": "Duel"
+  },
+  "373": {
+    "name_fr": "Duo",
+    "name_en": "Duo"
+  },
+  "374": {
+    "name_fr": "Premier",
+    "name_en": "First"
+  },
+  "375": {
+    "name_fr": "Zombie",
+    "name_en": "Zombie"
+  },
+  "376": {
+    "name_fr": "Duo",
+    "name_en": "Duo"
+  },
+  "377": {
+    "name_fr": "Focus",
+    "name_en": "Focus"
+  },
+  "378": {
+    "name_fr": "Statue",
+    "name_en": "Statue"
+  },
+  "379": {
+    "name_fr": "Duo",
+    "name_en": "Duo"
+  },
+  "380": {
+    "name_fr": "Liberté",
+    "name_en": "Freedom"
+  },
+  "381": {
+    "name_fr": "Premier",
+    "name_en": "First"
+  },
+  "382": {
+    "name_fr": "Duo",
+    "name_en": "Duo"
+  },
+  "383": {
+    "name_fr": "Collant",
+    "name_en": "Tight"
+  },
+  "384": {
+    "name_fr": "Hardi",
+    "name_en": "Impertinence"
+  },
+  "385": {
+    "name_fr": "Duo",
+    "name_en": "Duo"
+  },
+  "386": {
+    "name_fr": "Duo",
+    "name_en": "Duo"
+  },
+  "387": {
+    "name_fr": "Prudent",
+    "name_en": "Cautious"
+  },
+  "388": {
+    "name_fr": "Premier",
+    "name_en": "First"
+  },
+  "389": {
+    "name_fr": "Liberté",
+    "name_en": "Freedom"
+  },
+  "390": {
+    "name_fr": "Focus",
+    "name_en": "Focus"
+  },
+  "391": {
+    "name_fr": "Duo",
+    "name_en": "Duo"
+  },
+  "392": {
+    "name_fr": "Versatile",
+    "name_en": "Versatile"
+  },
+  "393": {
+    "name_fr": "Focus",
+    "name_en": "Focus"
+  },
+  "394": {
+    "name_fr": "Duo",
+    "name_en": "Duo"
+  },
+  "395": {
+    "name_fr": "Mystique",
+    "name_en": "Mystique"
+  },
+  "396": {
+    "name_fr": "Zombie",
+    "name_en": "Zombie"
+  },
+  "397": {
+    "name_fr": "Duo",
+    "name_en": "Duo"
+  },
+  "398": {
+    "name_fr": "Premier",
+    "name_en": "First"
+  },
+  "399": {
+    "name_fr": "Liberté",
+    "name_en": "Freedom"
+  },
+  "400": {
+    "name_fr": "Duo",
+    "name_en": "Duo"
+  },
+  "401": {
+    "name_fr": "Duo",
+    "name_en": "Duo"
+  },
+  "402": {
+    "name_fr": "Collant",
+    "name_en": "Tight"
+  },
+  "403": {
+    "name_fr": "Versatile",
+    "name_en": "Versatile"
+  },
+  "404": {
+    "name_fr": "Duo",
+    "name_en": "Duo"
+  },
+  "405": {
+    "name_fr": "Circulez !",
+    "name_en": "Keep Moving!"
+  },
+  "406": {
+    "name_fr": "Blitzkrieg",
+    "name_en": "Blitzkrieg"
+  },
+  "407": {
+    "name_fr": "Premier",
+    "name_en": "First"
+  },
+  "408": {
+    "name_fr": "Liberté",
+    "name_en": "Freedom"
+  },
+  "409": {
+    "name_fr": "Duo",
+    "name_en": "Duo"
+  },
+  "410": {
+    "name_fr": "Chrono",
+    "name_en": "Chrono"
+  },
+  "411": {
+    "name_fr": "Chrono",
+    "name_en": "Chrono"
+  },
+  "412": {
+    "name_fr": "Chrono",
+    "name_en": "Chrono"
+  },
+  "413": {
+    "name_fr": "Statue",
+    "name_en": "Statue"
+  },
+  "414": {
+    "name_fr": "Dernier",
+    "name_en": "Last"
+  },
+  "415": {
+    "name_fr": "Duo",
+    "name_en": "Duo"
+  },
+  "416": {
+    "name_fr": "Dernier",
+    "name_en": "Last"
+  },
+  "417": {
+    "name_fr": "Circulez !",
+    "name_en": "Keep Moving!"
+  },
+  "418": {
+    "name_fr": "Duo",
+    "name_en": "Duo"
+  },
+  "419": {
+    "name_fr": "Focus",
+    "name_en": "Focus"
+  },
+  "420": {
+    "name_fr": "Hardi",
+    "name_en": "Impertinence"
+  },
+  "421": {
+    "name_fr": "Duo",
+    "name_en": "Duo"
+  },
+  "422": {
+    "name_fr": "Collant",
+    "name_en": "Tight"
+  },
+  "423": {
+    "name_fr": "Mains propres",
+    "name_en": "Clean Hands"
+  },
+  "424": {
+    "name_fr": "Duo",
+    "name_en": "Duo"
+  },
+  "425": {
+    "name_fr": "Zombie",
+    "name_en": "Zombie"
+  },
+  "426": {
+    "name_fr": "Misanthrope",
+    "name_en": "Misanthrope"
+  },
+  "427": {
+    "name_fr": "Duo",
+    "name_en": "Duo"
+  },
+  "428": {
+    "name_fr": "Focus",
+    "name_en": "Focus"
+  },
+  "429": {
+    "name_fr": "Versatile",
+    "name_en": "Versatile"
+  },
+  "430": {
+    "name_fr": "Duo",
+    "name_en": "Duo"
+  },
+  "431": {
+    "name_fr": "Hardi",
+    "name_en": "Impertinence"
+  },
+  "432": {
+    "name_fr": "Mains propres",
+    "name_en": "Clean Hands"
+  },
+  "433": {
+    "name_fr": "Duo",
+    "name_en": "Duo"
+  },
+  "434": {
+    "name_fr": "Liberté",
+    "name_en": "Freedom"
+  },
+  "435": {
+    "name_fr": "Hardi",
+    "name_en": "Impertinence"
+  },
+  "436": {
+    "name_fr": "Quatuor",
+    "name_en": "Quartet"
+  },
+  "442": {
+    "name_fr": "Statue",
+    "name_en": "Statue"
+  },
+  "443": {
+    "name_fr": "Versatile",
+    "name_en": "Versatile"
+  },
+  "444": {
+    "name_fr": "Duo",
+    "name_en": "Duo"
+  },
+  "445": {
+    "name_fr": "Prudent",
+    "name_en": "Cautious"
+  },
+  "446": {
+    "name_fr": "Dernier",
+    "name_en": "Last"
+  },
+  "447": {
+    "name_fr": "Duo",
+    "name_en": "Duo"
+  },
+  "448": {
+    "name_fr": "Prudent",
+    "name_en": "Cautious"
+  },
+  "449": {
+    "name_fr": "Nomade",
+    "name_en": "Nomad"
+  },
+  "450": {
+    "name_fr": "Duo",
+    "name_en": "Duo"
+  },
+  "451": {
+    "name_fr": "Bombombragogo",
+    "name_en": "Cucumbombagogo"
+  },
+  "452": {
+    "name_fr": "Mutinerie kwapa",
+    "name_en": "Kwapa Mutiny"
+  },
+  "453": {
+    "name_fr": "Ami des Bombombres",
+    "name_en": "Friend of Cucumbombs"
+  },
+  "454": {
+    "name_fr": "Prudent",
+    "name_en": "Cautious"
+  },
+  "455": {
+    "name_fr": "Collant",
+    "name_en": "Tight"
+  },
+  "456": {
+    "name_fr": "Duo",
+    "name_en": "Duo"
+  },
+  "457": {
+    "name_fr": "Mutinerie du Sarkapwane",
+    "name_en": "Blokapwane Mutiny"
+  },
+  "458": {
+    "name_fr": "Mutinerie de la Kokom",
+    "name_en": "Kwakumber Mutiny"
+  },
+  "459": {
+    "name_fr": "Mutinerie de l'Akakwa",
+    "name_en": "Akakwa Mutiny"
+  },
+  "460": {
+    "name_fr": "Mutinerie du Betto",
+    "name_en": "Baka Mutiny"
+  },
+  "461": {
+    "name_fr": "Kwaboom 2 en 1",
+    "name_en": "2-for-1 Kwaboom"
+  },
+  "464": {
+    "name_fr": "Duo",
+    "name_en": "Duo"
+  },
+  "465": {
+    "name_fr": "Premier",
+    "name_en": "First"
+  },
+  "466": {
+    "name_fr": "Hardi",
+    "name_en": "Impertinence"
+  },
+  "467": {
+    "name_fr": "Le Kin-Fu d'abord",
+    "name_en": "Kin-Fu First"
+  },
+  "468": {
+    "name_fr": "Le Kang-Fu d'abord",
+    "name_en": "Kang-Fu First"
+  },
+  "469": {
+    "name_fr": "Rien ne sert de se cacher",
+    "name_en": "No Use Hiding"
+  },
+  "470": {
+    "name_fr": "Ultra instinct",
+    "name_en": "Ultima Instinct"
+  },
+  "471": {
+    "name_fr": "Armure des vents",
+    "name_en": "Wind Armour"
+  },
+  "472": {
+    "name_fr": "Rinku meurtrier",
+    "name_en": "Murderous Rinku"
+  },
+  "473": {
+    "name_fr": "Voyage en terrain kouïu",
+    "name_en": "Off the Beaten Off Path"
+  },
+  "474": {
+    "name_fr": "La contre-poterie",
+    "name_en": "Shard It"
+  },
+  "475": {
+    "name_fr": "M et Mme Samovar ont un fils...",
+    "name_en": "I'm a Little..."
+  },
+  "476": {
+    "name_fr": "Le jardin que pierre a bâti",
+    "name_en": "The Garden that Rock Built"
+  },
+  "477": {
+    "name_fr": "Le Sein-Supplice",
+    "name_en": "Martittydom"
+  },
+  "478": {
+    "name_fr": "Contre vent contraire",
+    "name_en": "Fighting the Headwinds"
+  },
+  "479": {
+    "name_fr": "Images du monde flottant",
+    "name_en": "Images of the Floating World"
+  },
+  "480": {
+    "name_fr": "D'une pierre deux kouï",
+    "name_en": "Two Bhalls with One Stone"
+  },
+  "481": {
+    "name_fr": "Ça va plonger chérie",
+    "name_en": "Take the Plunge"
+  },
+  "482": {
+    "name_fr": "Courber l'épine",
+    "name_en": "Thorny Problem"
+  },
+  "483": {
+    "name_fr": "Mémoire d'élément",
+    "name_en": "Memory of an Element"
+  },
+  "484": {
+    "name_fr": "Un régime équilibré",
+    "name_en": "A Balanced Diet"
+  },
+  "485": {
+    "name_fr": "Combat rapproché",
+    "name_en": "Close Combat"
+  },
+  "486": {
+    "name_fr": "J'y suis, j'y reste",
+    "name_en": "Here to Stay"
+  },
+  "487": {
+    "name_fr": "Feu l'artifice",
+    "name_en": "Fouxwork Fire"
+  },
+  "488": {
+    "name_fr": "Distance de sécurité",
+    "name_en": "Safe Distance"
+  },
+  "489": {
+    "name_fr": "Duo",
+    "name_en": "Duo"
+  },
+  "490": {
+    "name_fr": "Trio",
+    "name_en": "Trio"
+  },
+  "491": {
+    "name_fr": "Quatuor",
+    "name_en": "Quartet"
+  },
+  "492": {
+    "name_fr": "Chrono",
+    "name_en": "Chrono"
+  },
+  "494": {
+    "name_fr": "Duo",
+    "name_en": "Duo"
+  },
+  "495": {
+    "name_fr": "Premier",
+    "name_en": "First"
+  },
+  "496": {
+    "name_fr": "Focus",
+    "name_en": "Focus"
+  },
+  "497": {
+    "name_fr": "Madurasse Masque",
+    "name_en": "Madurasse Mask"
+  },
+  "498": {
+    "name_fr": "Tête dure",
+    "name_en": "Hard Headed"
+  },
+  "499": {
+    "name_fr": "Anti-kopiage",
+    "name_en": "Anti-Kopiing"
+  },
+  "500": {
+    "name_fr": "Maître kopiste",
+    "name_en": "Master Kopier"
+  },
+  "501": {
+    "name_fr": "Tel l'esprit qui croyait prendre",
+    "name_en": "Tables Turned"
+  },
+  "502": {
+    "name_fr": "Kaokuriche",
+    "name_en": "Kaokurich"
+  },
+  "503": {
+    "name_fr": "Tsume-grozu",
+    "name_en": "Tsume-Bigzu"
+  },
+  "504": {
+    "name_fr": "Un, deux, troix, BOZU !",
+    "name_en": "Bozu's Footsteps!"
+  },
+  "505": {
+    "name_fr": "Onigovrille",
+    "name_en": "Onigorispin"
+  },
+  "506": {
+    "name_fr": "Lantervalle",
+    "name_en": "Lanternval"
+  },
+  "507": {
+    "name_fr": "Saïffe zaune",
+    "name_en": "Sayff Zown"
+  },
+  "508": {
+    "name_fr": "Premier",
+    "name_en": "First"
+  },
+  "509": {
+    "name_fr": "Hardi",
+    "name_en": "Impertinence"
+  },
+  "510": {
+    "name_fr": "Duo",
+    "name_en": "Duo"
+  },
+  "511": {
+    "name_fr": "Lune Vengeresse",
+    "name_en": "Vengeful Moon"
+  },
+  "512": {
+    "name_fr": "Tambour Guignon",
+    "name_en": "Drumbuie"
+  },
+  "513": {
+    "name_fr": "Mille Pétales de Cerisier",
+    "name_en": "Thousand Cherry Blossoms"
+  },
+  "514": {
+    "name_fr": "Combat à l'aveuglette",
+    "name_en": "Fighting Blind"
+  },
+  "515": {
+    "name_fr": "La Danse du Lion",
+    "name_en": "Lion Dance"
+  },
+  "516": {
+    "name_fr": "Hardi",
+    "name_en": "Impertinence"
+  },
+  "517": {
+    "name_fr": "Mains propres",
+    "name_en": "Clean Hands"
+  },
+  "518": {
+    "name_fr": "Trio",
+    "name_en": "Trio"
+  },
+  "519": {
+    "name_fr": "Prudent",
+    "name_en": "Cautious"
+  },
+  "520": {
+    "name_fr": "Mains propres",
+    "name_en": "Clean Hands"
+  },
+  "521": {
+    "name_fr": "Trio",
+    "name_en": "Trio"
+  },
+  "522": {
+    "name_fr": "Lotus pour un",
+    "name_en": "Lotus for One"
+  },
+  "523": {
+    "name_fr": "Souffle du Printemps",
+    "name_en": "Spring Breeze"
+  },
+  "524": {
+    "name_fr": "Lotus et bouche cousue",
+    "name_en": "Button Your Lotus"
+  },
+  "525": {
+    "name_fr": "Domakuropitmisation",
+    "name_en": "Domakuropitmisation"
+  },
+  "526": {
+    "name_fr": "Domakurobligeance",
+    "name_en": "Domakourtesy"
+  },
+  "527": {
+    "name_fr": "Dorigamise à mort",
+    "name_en": "Dorigexecution"
+  },
+  "528": {
+    "name_fr": "Dorigamiséricorde",
+    "name_en": "Dorigamercy"
+  },
+  "529": {
+    "name_fr": "Lotus pour un",
+    "name_en": "Lotus for One"
+  },
+  "530": {
+    "name_fr": "Hardi",
+    "name_en": "Impertinence"
+  },
+  "531": {
+    "name_fr": "Mains propres",
+    "name_en": "Clean Hands"
+  },
+  "532": {
+    "name_fr": "Duo",
+    "name_en": "Duo"
+  },
+  "534": {
+    "name_fr": "Pas de bras, pas de tracas",
+    "name_en": "No Arms, No Alarms"
+  },
+  "537": {
+    "name_fr": "Liaison dangereuse",
+    "name_en": "Dangerous Liaison"
+  },
+  "584": {
+    "name_fr": "Zombie",
+    "name_en": "Zombie"
+  },
+  "585": {
+    "name_fr": "Premier",
+    "name_en": "First"
+  },
+  "586": {
+    "name_fr": "Duo",
+    "name_en": "Duo"
+  },
+  "587": {
+    "name_fr": "Duo",
+    "name_en": "Duo"
+  },
+  "589": {
+    "name_fr": "Statue",
+    "name_en": "Statue"
+  },
+  "590": {
+    "name_fr": "Dernier",
+    "name_en": "Last"
+  },
+  "591": {
+    "name_fr": "Duo",
+    "name_en": "Duo"
+  },
+  "592": {
+    "name_fr": "Premier",
+    "name_en": "First"
+  },
+  "593": {
+    "name_fr": "Nomade",
+    "name_en": "Nomad"
+  },
+  "751": {
+    "name_fr": "Hardi",
+    "name_en": "Impertinence"
+  },
+  "752": {
+    "name_fr": "Premier",
+    "name_en": "First"
+  },
+  "753": {
+    "name_fr": "Survivant",
+    "name_en": "Survivor"
+  },
+  "754": {
+    "name_fr": "Duel",
+    "name_en": "Duel"
+  },
+  "755": {
+    "name_fr": "Mains propres",
+    "name_en": "Clean Hands"
+  },
+  "756": {
+    "name_fr": "Survivant",
+    "name_en": "Survivor"
+  },
+  "757": {
+    "name_fr": "Zombie",
+    "name_en": "Zombie"
+  },
+  "758": {
+    "name_fr": "Versatile",
+    "name_en": "Versatile"
+  },
+  "759": {
+    "name_fr": "Survivant",
+    "name_en": "Survivor"
+  },
+  "760": {
+    "name_fr": "Statue",
+    "name_en": "Statue"
+  },
+  "761": {
+    "name_fr": "Mains propres",
+    "name_en": "Clean Hands"
+  },
+  "762": {
+    "name_fr": "Survivant",
+    "name_en": "Survivor"
+  },
+  "763": {
+    "name_fr": "Élémentaire",
+    "name_en": "Elementary, My Dear!"
+  },
+  "764": {
+    "name_fr": "Versatile",
+    "name_en": "Versatile"
+  },
+  "765": {
+    "name_fr": "Survivant",
+    "name_en": "Survivor"
+  },
+  "766": {
+    "name_fr": "Zombie",
+    "name_en": "Zombie"
+  },
+  "767": {
+    "name_fr": "Dernier",
+    "name_en": "Last"
+  },
+  "768": {
+    "name_fr": "Survivant",
+    "name_en": "Survivor"
+  },
+  "769": {
+    "name_fr": "Hardi",
+    "name_en": "Impertinence"
+  },
+  "770": {
+    "name_fr": "Premier",
+    "name_en": "First"
+  },
+  "771": {
+    "name_fr": "Survivant",
+    "name_en": "Survivor"
+  },
+  "772": {
+    "name_fr": "Duel",
+    "name_en": "Duel"
+  },
+  "773": {
+    "name_fr": "Prudent",
+    "name_en": "Cautious"
+  },
+  "774": {
+    "name_fr": "Survivant",
+    "name_en": "Survivor"
+  },
+  "775": {
+    "name_fr": "Barbare",
+    "name_en": "Barbaric"
+  },
+  "776": {
+    "name_fr": "Misanthrope",
+    "name_en": "Misanthrope"
+  },
+  "777": {
+    "name_fr": "Survivant",
+    "name_en": "Survivor"
+  },
+  "778": {
+    "name_fr": "Mains propres",
+    "name_en": "Clean Hands"
+  },
+  "779": {
+    "name_fr": "Premier",
+    "name_en": "First"
+  },
+  "780": {
+    "name_fr": "Survivant",
+    "name_en": "Survivor"
+  },
+  "819": {
+    "name_fr": "Collant",
+    "name_en": "Tight"
+  },
+  "820": {
+    "name_fr": "Duo",
+    "name_en": "Duo"
+  },
+  "821": {
+    "name_fr": "Mains propres",
+    "name_en": "Clean Hands"
+  },
+  "822": {
+    "name_fr": "Versatile",
+    "name_en": "Versatile"
+  },
+  "823": {
+    "name_fr": "Duo",
+    "name_en": "Duo"
+  },
+  "824": {
+    "name_fr": "Dernier",
+    "name_en": "Last"
+  },
+  "868": {
+    "name_fr": "Dernier",
+    "name_en": "Last"
+  },
+  "869": {
+    "name_fr": "Prudent",
+    "name_en": "Cautious"
+  },
+  "870": {
+    "name_fr": "Duo",
+    "name_en": "Duo"
+  },
+  "872": {
+    "name_fr": "Compagnons à vendre",
+    "name_en": "Sidekicks For Sale"
+  },
+  "873": {
+    "name_fr": "Compagnons vagabonds",
+    "name_en": "Wandering Sidekicks"
+  },
+  "874": {
+    "name_fr": "Compagnons artisans",
+    "name_en": "Crafty Sidekicks"
+  },
+  "875": {
+    "name_fr": "Compagnons bavards",
+    "name_en": "Chatty Sidekicks"
+  },
+  "887": {
+    "name_fr": "Bandits du Magik Riktus",
+    "name_en": "Magik Riktus Bandits"
+  },
+  "888": {
+    "name_fr": "Revenus d'outre tombe",
+    "name_en": "From Beyond the Grave"
+  },
+  "889": {
+    "name_fr": "Chevaliers tourmentés",
+    "name_en": "Tormented Knights"
+  },
+  "890": {
+    "name_fr": "Mini Nuits'",
+    "name_en": "Mini Inuits"
+  },
+  "891": {
+    "name_fr": "Les crados",
+    "name_en": "Garbage Pail Sidekicks"
+  },
+  "892": {
+    "name_fr": "Compagnons, quel est votre métier ?",
+    "name_en": "Professional Sidekicks"
+  },
+  "893": {
+    "name_fr": "Les z'autres",
+    "name_en": "Z'others"
+  },
+  "894": {
+    "name_fr": "Rats... au sens propre ou au figuré",
+    "name_en": "Rats... Literal or Otherwise"
+  },
+  "895": {
+    "name_fr": "Les pandaliens",
+    "name_en": "The Pandalans"
+  },
+  "896": {
+    "name_fr": "Les héros",
+    "name_en": "The Heroes"
+  },
+  "957": {
+    "name_fr": "Compagnon",
+    "name_en": "Sidekick"
+  },
+  "962": {
+    "name_fr": "Sans-cœur",
+    "name_en": "Heartless"
+  },
+  "964": {
+    "name_fr": "De la même lignée",
+    "name_en": "Along the Same Lines"
+  },
+  "965": {
+    "name_fr": "La diagonale du plein",
+    "name_en": "Diagon Allies"
+  },
+  "966": {
+    "name_fr": "Miroir",
+    "name_en": "Mirror"
+  },
+  "967": {
+    "name_fr": "Tueur à vue",
+    "name_en": "Kill on Sight"
+  },
+  "968": {
+    "name_fr": "Pas vu pas pris",
+    "name_en": "Peek-a-Boo"
+  },
+  "969": {
+    "name_fr": "En ligne de mire",
+    "name_en": "In the Line of Fire"
+  },
+  "970": {
+    "name_fr": "J'en ai fait un pin's",
+    "name_en": "Nail 'Em Down"
+  },
+  "971": {
+    "name_fr": "Raser les murs",
+    "name_en": "Wallflowers"
+  },
+  "973": {
+    "name_fr": "Conquérant",
+    "name_en": "Conqueror"
+  },
+  "974": {
+    "name_fr": "Doume",
+    "name_en": "Doom"
+  },
+  "977": {
+    "name_fr": "Lâche mes côtes",
+    "name_en": "Don't Tickle My Ribs"
+  },
+  "978": {
+    "name_fr": "Mauvaise graine",
+    "name_en": "Bad Seed"
+  },
+  "979": {
+    "name_fr": "Passer l'éponge",
+    "name_en": "Sponge Shover"
+  },
+  "980": {
+    "name_fr": "Un Mulou dans la Bergerie",
+    "name_en": "A Boowolf Among the Sheep"
+  },
+  "981": {
+    "name_fr": "Empêtrement d'esprit entêtant",
+    "name_en": "Mental Entanglement"
+  },
+  "982": {
+    "name_fr": "Dorée, mi fa sol",
+    "name_en": "Don't Ray Me, Fah"
+  },
+  "983": {
+    "name_fr": "Désillusion",
+    "name_en": "Disillusion"
+  },
+  "984": {
+    "name_fr": "Bécotam",
+    "name_en": "Keep 'Em in Line"
+  },
+  "985": {
+    "name_fr": "La ligne interdite",
+    "name_en": "The Forbidden Line"
+  },
+  "986": {
+    "name_fr": "Dirige mais mal rédige",
+    "name_en": "Team-Busting Exercise"
+  },
+  "987": {
+    "name_fr": "Tombés sous le charme",
+    "name_en": "Fallen Under the Spell"
+  },
+  "988": {
+    "name_fr": "Ouverture facile",
+    "name_en": "Easy Opening"
+  },
+  "989": {
+    "name_fr": "Collé-serré",
+    "name_en": "Stuck on You"
+  },
+  "990": {
+    "name_fr": "Kwakwa ? Kwapoussée !",
+    "name_en": "Kwakwa Kwapush!"
+  },
+  "991": {
+    "name_fr": "Enlisement larvaire",
+    "name_en": "Larval Stymation"
+  },
+  "992": {
+    "name_fr": "Vigilance forestière",
+    "name_en": "Forest Vigilance"
+  },
+  "993": {
+    "name_fr": "Touche pas à mon blop",
+    "name_en": "Hands off My Blop"
+  },
+  "994": {
+    "name_fr": "Touche pas à mon blop",
+    "name_en": "Hands off My Blop"
+  },
+  "995": {
+    "name_fr": "Touche pas à mon blop",
+    "name_en": "Hands off My Blop"
+  },
+  "996": {
+    "name_fr": "Touche pas à mon blop",
+    "name_en": "Hands off My Blop"
+  },
+  "997": {
+    "name_fr": "Rituel de survie",
+    "name_en": "Survival Ritual"
+  },
+  "998": {
+    "name_fr": "Privé de dessert",
+    "name_en": "No Pudding for You"
+  },
+  "999": {
+    "name_fr": "Privé de dessert",
+    "name_en": "No Pudding for You"
+  },
+  "1000": {
+    "name_fr": "Privé de dessert",
+    "name_en": "No Pudding for You"
+  },
+  "1001": {
+    "name_fr": "Privé de dessert",
+    "name_en": "No Pudding for You"
+  },
+  "1002": {
+    "name_fr": "Mené à la cawotte",
+    "name_en": "Cawwot and Stick"
+  },
+  "1003": {
+    "name_fr": "De véritables craqu'",
+    "name_en": "A Crackin' Good Fight"
+  },
+  "1004": {
+    "name_fr": "Tonneaux truands",
+    "name_en": "Buccaneer Barrels"
+  },
+  "1005": {
+    "name_fr": "Laboratoire de curiosité",
+    "name_en": "Lab of Curiosities"
+  },
+  "1006": {
+    "name_fr": "Sortir de sa coquille",
+    "name_en": "Come Out of Your Shell"
+  },
+  "1007": {
+    "name_fr": "À portée de dard",
+    "name_en": "In Sting Range"
+  },
+  "1008": {
+    "name_fr": "À fond les boulons",
+    "name_en": "Batten Down the Hatches"
+  },
+  "1009": {
+    "name_fr": "Saute-pirate",
+    "name_en": "Swappin' Swabbie Swatter"
+  },
+  "1010": {
+    "name_fr": "Distance respectueuse",
+    "name_en": "Respectful Distance"
+  },
+  "1011": {
+    "name_fr": "Chacun son tour de magie",
+    "name_en": "A Turn of Magic"
+  },
+  "1012": {
+    "name_fr": "On ne peut la Nyée",
+    "name_en": "Rac Off"
+  },
+  "1013": {
+    "name_fr": "Faut pas pousser les cochons dans la confiture d'orties",
+    "name_en": "Don't Push Your Lucky Pearls Before Swine"
+  },
+  "1014": {
+    "name_fr": "À la cool",
+    "name_en": "Keep Your Uncool"
+  },
+  "1015": {
+    "name_fr": "Meulou y es-tu ?",
+    "name_en": "What's the Time, Mr Moowolf?"
+  },
+  "1016": {
+    "name_fr": "Les yeux aussi gros que le ventre",
+    "name_en": "The Better to See You With"
+  },
+  "1017": {
+    "name_fr": "Échapper au fisk",
+    "name_en": "Evadatax"
+  },
+  "1018": {
+    "name_fr": "Animal totem",
+    "name_en": "Animal Totem"
+  },
+  "1019": {
+    "name_fr": "Spectacle de marionnettes",
+    "name_en": "Puppet Show"
+  },
+  "1020": {
+    "name_fr": "Ras le boule",
+    "name_en": "Lesser and Fewer"
+  },
+  "1021": {
+    "name_fr": "La taille du rat",
+    "name_en": "Cutting Big Rat"
+  },
+  "1022": {
+    "name_fr": "Rat-trapage",
+    "name_en": "Ratch-Up"
+  },
+  "1023": {
+    "name_fr": "Maître Corbac sur un arbre perché",
+    "name_en": "Lord Crow Perched on a Tree One Day"
+  },
+  "1024": {
+    "name_fr": "On lui pèlera le bourgeon",
+    "name_en": "Stick in the Bud"
+  },
+  "1025": {
+    "name_fr": "Sac à pupuces",
+    "name_en": "Fleefleebag"
+  },
+  "1026": {
+    "name_fr": "Poursuite royale",
+    "name_en": "Royal Pursuit"
+  },
+  "1027": {
+    "name_fr": "Les fans et les enfants d'abord",
+    "name_en": "Fans and Children First"
+  },
+  "1028": {
+    "name_fr": "Garde emplumée",
+    "name_en": "Feathered Guard"
+  },
+  "1029": {
+    "name_fr": "L'heure tourne",
+    "name_en": "Clockwise Combat"
+  },
+  "1030": {
+    "name_fr": "Touche pas à mes blops",
+    "name_en": "Hands off My Blops"
+  },
+  "1031": {
+    "name_fr": "En cassant des œufs",
+    "name_en": "By Breaking a Few Eggs"
+  },
+  "1032": {
+    "name_fr": "Parcimonie royale",
+    "name_en": "Royal Parsimony"
+  },
+  "1033": {
+    "name_fr": "Sortie de ring",
+    "name_en": "Out of the Ring"
+  },
+  "1034": {
+    "name_fr": "Guerilla",
+    "name_en": "Guerrilla"
+  },
+  "1035": {
+    "name_fr": "Truchement",
+    "name_en": "Strich and Slide"
+  },
+  "1036": {
+    "name_fr": "Le jeu de la Dame",
+    "name_en": "The Queen's Gambit"
+  },
+  "1037": {
+    "name_fr": "Enchaînemou",
+    "name_en": "Soft Lines"
+  },
+  "1038": {
+    "name_fr": "Se faire des kouïs en or",
+    "name_en": "Make a Killing"
+  },
+  "1039": {
+    "name_fr": "Prendre racine",
+    "name_en": "Putting Down Roots"
+  },
+  "1040": {
+    "name_fr": "Privilège royal",
+    "name_en": "Royal Privilege"
+  },
+  "1041": {
+    "name_fr": "Vents contraires",
+    "name_en": "Headwinds"
+  },
+  "1042": {
+    "name_fr": "Raviver la flamme",
+    "name_en": "Keep the Flame Alive"
+  },
+  "1043": {
+    "name_fr": "Pizwa quatre couleurs",
+    "name_en": "Four-Colour Pizwa"
+  },
+  "1044": {
+    "name_fr": "Hamrack'n roll",
+    "name_en": "Hamrack 'n' Roll"
+  },
+  "1045": {
+    "name_fr": "Diagonale du vide",
+    "name_en": "Void Diagonal"
+  },
+  "1046": {
+    "name_fr": "Hellémentaire",
+    "name_en": "Hellemental"
+  },
+  "1047": {
+    "name_fr": "Une paire d'impairs",
+    "name_en": "Odd Couple"
+  },
+  "1048": {
+    "name_fr": "Tofu-phobie",
+    "name_en": "Tofuphobia"
+  },
+  "1049": {
+    "name_fr": "À son hypogée",
+    "name_en": "At Apogeum"
+  },
+  "1050": {
+    "name_fr": "Crocs à crocs",
+    "name_en": "Close Combite"
+  },
+  "1051": {
+    "name_fr": "Duel et pique",
+    "name_en": "Spade to Rest"
+  },
+  "1052": {
+    "name_fr": "Une lanterne dans la nuit",
+    "name_en": "Lantern in the Night"
+  },
+  "1053": {
+    "name_fr": "Autonomie givrée",
+    "name_en": "Frozen Autonomy"
+  },
+  "1054": {
+    "name_fr": "Émancipation maternelle",
+    "name_en": "Maternal Emancipation"
+  },
+  "1055": {
+    "name_fr": "C'est très vague !",
+    "name_en": "Wave Goodbye"
+  },
+  "1056": {
+    "name_fr": "On ne touche pas",
+    "name_en": "I'm Not Touching You"
+  },
+  "1057": {
+    "name_fr": "La lumière ne fut jamais",
+    "name_en": "Don't Let There Be Light"
+  },
+  "1058": {
+    "name_fr": "Baston équitable",
+    "name_en": "Fair Fight"
+  },
+  "1059": {
+    "name_fr": "Mycologie",
+    "name_en": "Mycology"
+  },
+  "1060": {
+    "name_fr": "Un projet tentaculaire",
+    "name_en": "Tentacles Off"
+  },
+  "1061": {
+    "name_fr": "Pas dans mes pattes",
+    "name_en": "Out of My Way"
+  },
+  "1062": {
+    "name_fr": "Relation toxique",
+    "name_en": "Toxic Relationship"
+  },
+  "1063": {
+    "name_fr": "Alliés passés au futur",
+    "name_en": "Summons Stoppage"
+  },
+  "1064": {
+    "name_fr": "Complaisance gloursonne",
+    "name_en": "Bearbaric Complacency"
+  },
+  "1065": {
+    "name_fr": "On voulait l'autre",
+    "name_en": "No, the Other One"
+  },
+  "1066": {
+    "name_fr": "Jeux d'ombres",
+    "name_en": "Shadow Play"
+  },
+  "1067": {
+    "name_fr": "Nos amies les bêtes",
+    "name_en": "Animals Are Our Friends Too"
+  },
+  "1068": {
+    "name_fr": "Antioxydant",
+    "name_en": "Antioxidant"
+  },
+  "1069": {
+    "name_fr": "Brikolère",
+    "name_en": "Tinkerage"
+  },
+  "1070": {
+    "name_fr": "Dur à cuir",
+    "name_en": "Panic Button"
+  },
+  "1071": {
+    "name_fr": "Attention, sol glissant",
+    "name_en": "Caution: Wet Floor"
+  },
+  "1072": {
+    "name_fr": "Alchi-pludent",
+    "name_en": "Alchemisafe"
+  },
+  "1073": {
+    "name_fr": "L'échec n'est pas une option",
+    "name_en": "Failure Is Not an Option"
+  },
+  "1074": {
+    "name_fr": "Voyez, il y a du monde",
+    "name_en": "Always Someone There to Align Me"
+  },
+  "1075": {
+    "name_fr": "Pingrerie",
+    "name_en": "Stinginess"
+  },
+  "1076": {
+    "name_fr": "La vie est une chausse-trappe",
+    "name_en": "Life Is Full of Pitfalls"
+  },
+  "1077": {
+    "name_fr": "Qui dit boum ?",
+    "name_en": "Can I Get a Boom?"
+  },
+  "1078": {
+    "name_fr": "Heure de la mort",
+    "name_en": "Hour of Death"
+  },
+  "1079": {
+    "name_fr": "Les bons comptes font les bons ennemis",
+    "name_en": "Enemies You Can Count On"
+  },
+  "1080": {
+    "name_fr": "Parfum de mutinerie",
+    "name_en": "The Scent of Mutiny"
+  },
+  "1081": {
+    "name_fr": "Chaises musicales",
+    "name_en": "Musical Chairs"
+  },
+  "1082": {
+    "name_fr": "Chasse aux coquillages",
+    "name_en": "Shell Hunt"
+  },
+  "1083": {
+    "name_fr": "Système pyramidal",
+    "name_en": "Pyramid Scheme"
+  },
+  "1084": {
+    "name_fr": "Qu'est-ce qu'elle a ma goule ?",
+    "name_en": "What makes you think I'm crazy?"
+  },
+  "1085": {
+    "name_fr": "Aux portes d'Externam",
+    "name_en": "At the Gates of Externam"
+  },
+  "1086": {
+    "name_fr": "La mort sait attendre",
+    "name_en": "Death Is Patient"
+  },
+  "1087": {
+    "name_fr": "La mort sait attendre",
+    "name_en": "Death Is Patient"
+  },
+  "1088": {
+    "name_fr": "Manque de nimpatience",
+    "name_en": "Unstubbygerness"
+  },
+  "1089": {
+    "name_fr": "Lunatique",
+    "name_en": "Lunartic"
+  },
+  "1090": {
+    "name_fr": "Immunité collective",
+    "name_en": "Collective Immunity"
+  },
+  "1091": {
+    "name_fr": "Bain de foule",
+    "name_en": "Walkabout"
+  },
+  "1092": {
+    "name_fr": "Abjecte opulence",
+    "name_en": "Abject Opulence"
+  },
+  "1093": {
+    "name_fr": "Arsenal total",
+    "name_en": "Total Arsenal"
+  },
+  "1094": {
+    "name_fr": "Régence d'encre",
+    "name_en": "Ink Regency"
+  },
+  "1095": {
+    "name_fr": "Régence de papier",
+    "name_en": "Paper Regency"
+  },
+  "1096": {
+    "name_fr": "Gros Bras",
+    "name_en": "Right to Bear Arms"
+  },
+  "1097": {
+    "name_fr": "Jusqu'à l'Aurore",
+    "name_en": "Until Dawn"
+  },
+  "1098": {
+    "name_fr": "Cible facile",
+    "name_en": "Easy Target"
+  },
+  "1100": {
+    "name_fr": "Sauvegarde des krokilles",
+    "name_en": "Save the Sauroshells"
+  },
+  "1101": {
+    "name_fr": "Sauvegarde des krokilles",
+    "name_en": "Save the Sauroshells"
+  },
+  "1102": {
+    "name_fr": "Sauvegarde des krokilles",
+    "name_en": "Save the Sauroshells"
+  },
+  "1103": {
+    "name_fr": "Sauvegarde des krokilles",
+    "name_en": "Save the Sauroshells"
+  },
+  "1267": {
+    "name_fr": "Rester planté là",
+    "name_en": "Take Root"
+  },
+  "1268": {
+    "name_fr": "Les héros",
+    "name_en": "The Heroes"
+  },
+  "1269": {
+    "name_fr": "Chevaliers tourmentés",
+    "name_en": "Tormented Knights"
+  },
+  "1270": {
+    "name_fr": "Bandits du Magik Riktus",
+    "name_en": "Magik Riktus Bandits"
+  },
+  "1271": {
+    "name_fr": "Rats... au sens propre ou au figuré",
+    "name_en": "Rats... Literal or Otherwise"
+  },
+  "1272": {
+    "name_fr": "Les crados",
+    "name_en": "Garbage Pail Sidekicks"
+  },
+  "1273": {
+    "name_fr": "Revenus d'outre-tombe",
+    "name_en": "From Beyond the Grave"
+  },
+  "1274": {
+    "name_fr": "Les z'autres",
+    "name_en": "Z'others"
+  },
+  "1275": {
+    "name_fr": "Compagnons, quel est votre métier ?",
+    "name_en": "Professional Sidekicks"
+  },
+  "1276": {
+    "name_fr": "Les pandaliens",
+    "name_en": "The Pandalans"
+  },
+  "1277": {
+    "name_fr": "Mini Nuits'",
+    "name_en": "Mini Inuits"
+  },
+  "1278": {
+    "name_fr": "Ça pique le Kipik",
+    "name_en": "Picky Pricky"
+  },
+  "1279": {
+    "name_fr": "Un Nowel presque parfait",
+    "name_en": "All I Want for Kwismas"
+  },
+  "1280": {
+    "name_fr": "Sale gosse !",
+    "name_en": "Why You Little...!"
+  },
+  "1404": {
+    "name_fr": "J'accours, les croquants !",
+    "name_en": "I'm Coming, Crunchies!"
+  },
+  "1405": {
+    "name_fr": "Fou de choco",
+    "name_en": "Cuckoo for Choco"
+  },
+  "1406": {
+    "name_fr": "Charier la chocolaterie",
+    "name_en": "A Nice Light Snack"
+  },
+  "1921": {
+    "name_fr": "Solo",
+    "name_en": "Solo"
+  },
+  "1922": {
+    "name_fr": "Solo",
+    "name_en": "Solo"
+  },
+  "1923": {
+    "name_fr": "Solo",
+    "name_en": "Solo"
+  },
+  "1924": {
+    "name_fr": "Solo",
+    "name_en": "Solo"
+  },
+  "1925": {
+    "name_fr": "Solo",
+    "name_en": "Solo"
+  },
+  "1926": {
+    "name_fr": "Solo",
+    "name_en": "Solo"
+  },
+  "1927": {
+    "name_fr": "Solo",
+    "name_en": "Solo"
+  },
+  "1928": {
+    "name_fr": "Solo",
+    "name_en": "Solo"
+  },
+  "1929": {
+    "name_fr": "Solo",
+    "name_en": "Solo"
+  },
+  "1930": {
+    "name_fr": "Solo",
+    "name_en": "Solo"
+  },
+  "1931": {
+    "name_fr": "Solo",
+    "name_en": "Solo"
+  },
+  "1932": {
+    "name_fr": "Solo",
+    "name_en": "Solo"
+  },
+  "1933": {
+    "name_fr": "Solo",
+    "name_en": "Solo"
+  },
+  "1934": {
+    "name_fr": "Solo",
+    "name_en": "Solo"
+  },
+  "1935": {
+    "name_fr": "Solo",
+    "name_en": "Solo"
+  },
+  "1936": {
+    "name_fr": "Solo",
+    "name_en": "Solo"
+  },
+  "1937": {
+    "name_fr": "Solo",
+    "name_en": "Solo"
+  },
+  "1938": {
+    "name_fr": "Solo",
+    "name_en": "Solo"
+  },
+  "1939": {
+    "name_fr": "Solo",
+    "name_en": "Solo"
+  },
+  "1940": {
+    "name_fr": "Solo",
+    "name_en": "Solo"
+  },
+  "1941": {
+    "name_fr": "Solo",
+    "name_en": "Solo"
+  },
+  "1942": {
+    "name_fr": "Solo",
+    "name_en": "Solo"
+  },
+  "1943": {
+    "name_fr": "Solo",
+    "name_en": "Solo"
+  },
+  "1944": {
+    "name_fr": "Solo",
+    "name_en": "Solo"
+  },
+  "1945": {
+    "name_fr": "Solo",
+    "name_en": "Solo"
+  },
+  "1946": {
+    "name_fr": "Solo",
+    "name_en": "Solo"
+  },
+  "1947": {
+    "name_fr": "Solo",
+    "name_en": "Solo"
+  },
+  "1948": {
+    "name_fr": "Solo",
+    "name_en": "Solo"
+  },
+  "1949": {
+    "name_fr": "Solo",
+    "name_en": "Solo"
+  },
+  "1950": {
+    "name_fr": "Solo",
+    "name_en": "Solo"
+  },
+  "1951": {
+    "name_fr": "Solo",
+    "name_en": "Solo"
+  },
+  "1952": {
+    "name_fr": "Solo",
+    "name_en": "Solo"
+  },
+  "1953": {
+    "name_fr": "Solo",
+    "name_en": "Solo"
+  },
+  "1954": {
+    "name_fr": "Solo",
+    "name_en": "Solo"
+  },
+  "1955": {
+    "name_fr": "Solo",
+    "name_en": "Solo"
+  },
+  "1956": {
+    "name_fr": "Solo",
+    "name_en": "Solo"
+  },
+  "1957": {
+    "name_fr": "Solo",
+    "name_en": "Solo"
+  },
+  "1958": {
+    "name_fr": "Solo",
+    "name_en": "Solo"
+  },
+  "1959": {
+    "name_fr": "Solo",
+    "name_en": "Solo"
+  },
+  "1960": {
+    "name_fr": "Solo",
+    "name_en": "Solo"
+  },
+  "1961": {
+    "name_fr": "Solo",
+    "name_en": "Solo"
+  },
+  "1962": {
+    "name_fr": "Solo",
+    "name_en": "Solo"
+  },
+  "1963": {
+    "name_fr": "Solo",
+    "name_en": "Solo"
+  },
+  "1964": {
+    "name_fr": "Solo",
+    "name_en": "Solo"
+  },
+  "1965": {
+    "name_fr": "Solo",
+    "name_en": "Solo"
+  },
+  "1966": {
+    "name_fr": "Solo",
+    "name_en": "Solo"
+  },
+  "1967": {
+    "name_fr": "Solo",
+    "name_en": "Solo"
+  },
+  "1968": {
+    "name_fr": "Solo",
+    "name_en": "Solo"
+  },
+  "1969": {
+    "name_fr": "Solo",
+    "name_en": "Solo"
+  },
+  "1970": {
+    "name_fr": "Solo",
+    "name_en": "Solo"
+  },
+  "1971": {
+    "name_fr": "Solo",
+    "name_en": "Solo"
+  },
+  "1972": {
+    "name_fr": "Solo",
+    "name_en": "Solo"
+  },
+  "1973": {
+    "name_fr": "Solo",
+    "name_en": "Solo"
+  },
+  "1974": {
+    "name_fr": "Solo",
+    "name_en": "Solo"
+  },
+  "1975": {
+    "name_fr": "Solo",
+    "name_en": "Solo"
+  },
+  "1976": {
+    "name_fr": "Solo",
+    "name_en": "Solo"
+  },
+  "1977": {
+    "name_fr": "Solo",
+    "name_en": "Solo"
+  },
+  "1978": {
+    "name_fr": "Solo",
+    "name_en": "Solo"
+  },
+  "1979": {
+    "name_fr": "Solo",
+    "name_en": "Solo"
+  },
+  "1980": {
+    "name_fr": "Solo",
+    "name_en": "Solo"
+  },
+  "1981": {
+    "name_fr": "Solo",
+    "name_en": "Solo"
+  },
+  "1982": {
+    "name_fr": "Solo",
+    "name_en": "Solo"
+  },
+  "1983": {
+    "name_fr": "Solo",
+    "name_en": "Solo"
+  },
+  "1984": {
+    "name_fr": "Solo",
+    "name_en": "Solo"
+  },
+  "1985": {
+    "name_fr": "Solo",
+    "name_en": "Solo"
+  },
+  "1986": {
+    "name_fr": "Solo",
+    "name_en": "Solo"
+  },
+  "1987": {
+    "name_fr": "Solo",
+    "name_en": "Solo"
+  },
+  "1988": {
+    "name_fr": "Solo",
+    "name_en": "Solo"
+  },
+  "1989": {
+    "name_fr": "Solo",
+    "name_en": "Solo"
+  },
+  "1990": {
+    "name_fr": "Solo",
+    "name_en": "Solo"
+  },
+  "1991": {
+    "name_fr": "Solo",
+    "name_en": "Solo"
+  },
+  "1992": {
+    "name_fr": "Solo",
+    "name_en": "Solo"
+  },
+  "1993": {
+    "name_fr": "Solo",
+    "name_en": "Solo"
+  },
+  "1994": {
+    "name_fr": "Solo",
+    "name_en": "Solo"
+  },
+  "1995": {
+    "name_fr": "Solo",
+    "name_en": "Solo"
+  },
+  "1996": {
+    "name_fr": "Solo",
+    "name_en": "Solo"
+  },
+  "1997": {
+    "name_fr": "Solo",
+    "name_en": "Solo"
+  },
+  "1998": {
+    "name_fr": "Solo",
+    "name_en": "Solo"
+  },
+  "1999": {
+    "name_fr": "Solo",
+    "name_en": "Solo"
+  },
+  "2000": {
+    "name_fr": "Solo",
+    "name_en": "Solo"
+  },
+  "2001": {
+    "name_fr": "Solo",
+    "name_en": "Solo"
+  },
+  "2002": {
+    "name_fr": "Solo",
+    "name_en": "Solo"
+  },
+  "2003": {
+    "name_fr": "Solo",
+    "name_en": "Solo"
+  },
+  "2004": {
+    "name_fr": "Solo",
+    "name_en": "Solo"
+  },
+  "2005": {
+    "name_fr": "Solo",
+    "name_en": "Solo"
+  },
+  "2006": {
+    "name_fr": "Solo",
+    "name_en": "Solo"
+  },
+  "2007": {
+    "name_fr": "Solo",
+    "name_en": "Solo"
+  },
+  "2008": {
+    "name_fr": "Solo",
+    "name_en": "Solo"
+  },
+  "2009": {
+    "name_fr": "Solo",
+    "name_en": "Solo"
+  },
+  "2010": {
+    "name_fr": "Solo",
+    "name_en": "Solo"
+  },
+  "2011": {
+    "name_fr": "Solo",
+    "name_en": "Solo"
+  },
+  "2012": {
+    "name_fr": "Solo",
+    "name_en": "Solo"
+  },
+  "2013": {
+    "name_fr": "Solo",
+    "name_en": "Solo"
+  },
+  "2014": {
+    "name_fr": "Solo",
+    "name_en": "Solo"
+  },
+  "2015": {
+    "name_fr": "Solo",
+    "name_en": "Solo"
+  },
+  "2016": {
+    "name_fr": "Solo",
+    "name_en": "Solo"
+  },
+  "2017": {
+    "name_fr": "Solo",
+    "name_en": "Solo"
+  },
+  "2018": {
+    "name_fr": "Solo",
+    "name_en": "Solo"
+  },
+  "2019": {
+    "name_fr": "Solo",
+    "name_en": "Solo"
+  },
+  "2020": {
+    "name_fr": "Solo",
+    "name_en": "Solo"
+  },
+  "2021": {
+    "name_fr": "Solo",
+    "name_en": "Solo"
+  },
+  "2022": {
+    "name_fr": "Solo",
+    "name_en": "Solo"
+  },
+  "2023": {
+    "name_fr": "Solo",
+    "name_en": "Solo"
+  },
+  "2024": {
+    "name_fr": "Solo",
+    "name_en": "Solo"
+  },
+  "2025": {
+    "name_fr": "Solo",
+    "name_en": "Solo"
+  },
+  "2026": {
+    "name_fr": "Solo",
+    "name_en": "Solo"
+  },
+  "2027": {
+    "name_fr": "Solo",
+    "name_en": "Solo"
+  },
+  "2028": {
+    "name_fr": "Solo",
+    "name_en": "Solo"
+  },
+  "2029": {
+    "name_fr": "Solo",
+    "name_en": "Solo"
+  },
+  "2030": {
+    "name_fr": "Solo",
+    "name_en": "Solo"
+  },
+  "2031": {
+    "name_fr": "Solo",
+    "name_en": "Solo"
+  },
+  "2032": {
+    "name_fr": "Solo",
+    "name_en": "Solo"
+  },
+  "2033": {
+    "name_fr": "Solo",
+    "name_en": "Solo"
+  },
+  "2034": {
+    "name_fr": "Solo",
+    "name_en": "Solo"
+  },
+  "2035": {
+    "name_fr": "Solo",
+    "name_en": "Solo"
+  },
+  "2036": {
+    "name_fr": "Solo",
+    "name_en": "Solo"
+  },
+  "2037": {
+    "name_fr": "Solo",
+    "name_en": "Solo"
+  },
+  "2038": {
+    "name_fr": "Solo",
+    "name_en": "Solo"
+  },
+  "2039": {
+    "name_fr": "Solo",
+    "name_en": "Solo"
+  },
+  "2040": {
+    "name_fr": "Solo",
+    "name_en": "Solo"
+  },
+  "2041": {
+    "name_fr": "Solo",
+    "name_en": "Solo"
+  },
+  "2042": {
+    "name_fr": "Solo",
+    "name_en": "Solo"
+  },
+  "2043": {
+    "name_fr": "Solo",
+    "name_en": "Solo"
+  },
+  "2083": {
+    "name_fr": "Nomade",
+    "name_en": "Nomad"
+  },
+  "2084": {
+    "name_fr": "En ligne de mire",
+    "name_en": "In the Line of Fire"
+  },
+  "2085": {
+    "name_fr": "Trio",
+    "name_en": "Trio"
+  },
+  "2086": {
+    "name_fr": "Autelière",
+    "name_en": "Altared"
+  },
+  "2087": {
+    "name_fr": "Conquérant",
+    "name_en": "Conqueror"
+  },
+  "2088": {
+    "name_fr": "Collant",
+    "name_en": "Tight"
+  },
+  "2089": {
+    "name_fr": "Duo",
+    "name_en": "Duo"
+  },
+  "2090": {
+    "name_fr": "Bombzerman",
+    "name_en": "Bombzerman"
+  },
+  "2091": {
+    "name_fr": "Premier",
+    "name_en": "First"
+  },
+  "2092": {
+    "name_fr": "Hardi",
+    "name_en": "Impertinence"
+  },
+  "2093": {
+    "name_fr": "Ça ronfle fort",
+    "name_en": "Snore Score"
+  },
+  "2094": {
+    "name_fr": "Trio",
+    "name_en": "Trio"
+  }
+}

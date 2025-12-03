@@ -1,0 +1,78 @@
+{
+  "1": {
+    "name_fr": "Féca",
+    "name_en": "Feca"
+  },
+  "2": {
+    "name_fr": "Osamodas",
+    "name_en": "Osamodas"
+  },
+  "3": {
+    "name_fr": "Enutrof",
+    "name_en": "Enutrof"
+  },
+  "4": {
+    "name_fr": "Sram",
+    "name_en": "Sram"
+  },
+  "5": {
+    "name_fr": "Xélor",
+    "name_en": "Xelor"
+  },
+  "6": {
+    "name_fr": "Ecaflip",
+    "name_en": "Ecaflip"
+  },
+  "7": {
+    "name_fr": "Eniripsa",
+    "name_en": "Eniripsa"
+  },
+  "8": {
+    "name_fr": "Iop",
+    "name_en": "Iop"
+  },
+  "9": {
+    "name_fr": "Crâ",
+    "name_en": "Cra"
+  },
+  "10": {
+    "name_fr": "Sadida",
+    "name_en": "Sadida"
+  },
+  "11": {
+    "name_fr": "Sacrieur",
+    "name_en": "Sacrier"
+  },
+  "12": {
+    "name_fr": "Pandawa",
+    "name_en": "Pandawa"
+  },
+  "13": {
+    "name_fr": "Roublard",
+    "name_en": "Rogue"
+  },
+  "14": {
+    "name_fr": "Zobal",
+    "name_en": "Masqueraider"
+  },
+  "15": {
+    "name_fr": "Steamer",
+    "name_en": "Foggernaut"
+  },
+  "16": {
+    "name_fr": "Eliotrope",
+    "name_en": "Eliotrope"
+  },
+  "17": {
+    "name_fr": "Huppermage",
+    "name_en": "Huppermage"
+  },
+  "18": {
+    "name_fr": "Ouginak",
+    "name_en": "Ouginak"
+  },
+  "20": {
+    "name_fr": "Forgelance",
+    "name_en": "Forgelance"
+  }
+}

@@ -1,0 +1,90 @@
+{
+  "1": {
+    "name_fr": "Base",
+    "name_en": "Base"
+  },
+  "2": {
+    "name_fr": "Bûcheron",
+    "name_en": "Lumberjack"
+  },
+  "11": {
+    "name_fr": "Forgeron",
+    "name_en": "Smith"
+  },
+  "13": {
+    "name_fr": "Sculpteur",
+    "name_en": "Carver"
+  },
+  "15": {
+    "name_fr": "Cordonnier",
+    "name_en": "Shoemaker"
+  },
+  "16": {
+    "name_fr": "Bijoutier",
+    "name_en": "Jeweller"
+  },
+  "24": {
+    "name_fr": "Mineur",
+    "name_en": "Miner"
+  },
+  "26": {
+    "name_fr": "Alchimiste",
+    "name_en": "Alchemist"
+  },
+  "27": {
+    "name_fr": "Tailleur",
+    "name_en": "Tailor"
+  },
+  "28": {
+    "name_fr": "Paysan",
+    "name_en": "Farmer"
+  },
+  "36": {
+    "name_fr": "Pêcheur",
+    "name_en": "Fisherman"
+  },
+  "41": {
+    "name_fr": "Chasseur",
+    "name_en": "Hunter"
+  },
+  "44": {
+    "name_fr": "Forgemage",
+    "name_en": "Smithmagus"
+  },
+  "48": {
+    "name_fr": "Sculptemage",
+    "name_en": "Carvmagus"
+  },
+  "60": {
+    "name_fr": "Façonneur",
+    "name_en": "Artificer"
+  },
+  "62": {
+    "name_fr": "Cordomage",
+    "name_en": "Shoemagus"
+  },
+  "63": {
+    "name_fr": "Joaillomage",
+    "name_en": "Jewelmagus"
+  },
+  "64": {
+    "name_fr": "Costumage",
+    "name_en": "Costumagus"
+  },
+  "65": {
+    "name_fr": "Bricoleur",
+    "name_en": "Handyman"
+  },
+  "74": {
+    "name_fr": "Façomage",
+    "name_en": "Craftmagus"
+  },
+  "75": {
+    "name_fr": "Parchomage",
+    "name_en": "Scrollmage"
+  },
+  "78": {
+    "name_fr": "Bestiologue",
+    "name_en": "Beastologist"
+  }
+}
